@@ -1,0 +1,196 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> – Perfromance Test</title>
+    <link>http://localhost:1313/docs/guide/sg-test-store/perf/</link>
+    <description>Recent content in Perfromance Test on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/docs/guide/sg-test-store/perf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Last Test</title>
+      <link>http://localhost:1313/docs/guide/sg-test-store/perf/last/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/guide/sg-test-store/perf/last/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Last or Endurance testing checks how a system behaves when it runs under normal or moderate load for a long period of time.
+The focus is time, not traffic spikes.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Endurance testing validates the stability and performance of an application under sustained load over an extended period to detect memory leaks and resource exhaustion.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+&lt;h3&gt;Why Endurance Testing Is Important&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;why-endurance-testing-is-important&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#why-endurance-testing-is-important&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Some problems don’t show up immediately:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Memory leaks&lt;/li&gt;
+&lt;li&gt;Resource exhaustion&lt;/li&gt;
+&lt;li&gt;Database connection leaks&lt;/li&gt;
+&lt;li&gt;Log file growth&lt;/li&gt;
+&lt;li&gt;Performance degradation over time&lt;/li&gt;
+&lt;li&gt;Endurance testing finds these slow-burning issues.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What Endurance Testing Validates&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-endurance-testing-validates&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-endurance-testing-validates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Application Layer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;application-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#application-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Memory usage growth&lt;/li&gt;
+&lt;li&gt;Thread leaks&lt;/li&gt;
+&lt;li&gt;Garbage collection behavior&lt;/li&gt;
+&lt;li&gt;Session handling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Infrastructure Layer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;infrastructure-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#infrastructure-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;CPU stability&lt;/li&gt;
+&lt;li&gt;Disk I/O saturation&lt;/li&gt;
+&lt;li&gt;Log rotation&lt;/li&gt;
+&lt;li&gt;Container/VM stability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Database Layer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;database-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#database-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Open connections&lt;/li&gt;
+&lt;li&gt;Lock contention&lt;/li&gt;
+&lt;li&gt;Query performance degradation&lt;/li&gt;
+&lt;li&gt;Cache effectiveness over time&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Spikes Test</title>
+      <link>http://localhost:1313/docs/guide/sg-test-store/perf/spikes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/guide/sg-test-store/perf/spikes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Spike testing validates how an application behaves and recovers when subjected to sudden, extreme changes in load.&lt;/p&gt;
+&lt;p&gt;Spike testing validates system resilience when traffic changes instantaneously, not gradually.
+The goal is not to see how much load the system can take long-term, but&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How it absorbs shock&lt;/li&gt;
+&lt;li&gt;How it fails (if it does)&lt;/li&gt;
+&lt;li&gt;How fast it recovers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Why Spike Testing&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;why-spike-testing&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#why-spike-testing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Spike Testing&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Chaos Engineering&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Predictable load spikes&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Random failures&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Focus on traffic&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Focus on fault tolerance&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Pre-release&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Often in production&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;When Spike Testing Is Critical&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;when-spike-testing-is-critical&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#when-spike-testing-is-critical&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Spike testing is essential when:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Traffic is event-driven&lt;/li&gt;
+&lt;li&gt;User behavior is unpredictable&lt;/li&gt;
+&lt;li&gt;Business impact of downtime is high&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What Spike Testing Actually Validates&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-spike-testing-actually-validates&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-spike-testing-actually-validates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Application Layer:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;application-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#application-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Thread management&lt;/li&gt;
+&lt;li&gt;Request queuing&lt;/li&gt;
+&lt;li&gt;Garbage collection behavior&lt;/li&gt;
+&lt;li&gt;Dimeter, SIP, HTTP-2 messages or API timeouts&lt;/li&gt;
+&lt;li&gt;Retry logic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Infrastructure Layer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;infrastructure-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#infrastructure-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Auto-scaling trigger thresholds&lt;/li&gt;
+&lt;li&gt;Load balancer behavior&lt;/li&gt;
+&lt;li&gt;Container startup times&lt;/li&gt;
+&lt;li&gt;VM provisioning delay&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Data Layer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;data-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#data-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Connection pool limits&lt;/li&gt;
+&lt;li&gt;Lock contention&lt;/li&gt;
+&lt;li&gt;Cache eviction storms&lt;/li&gt;
+&lt;li&gt;Read/write latency spikes&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Stress Test</title>
+      <link>http://localhost:1313/docs/guide/sg-test-store/perf/stress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/guide/sg-test-store/perf/stress/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Stress testing evaluates how a system behaves when it is pushed beyond its normal and peak capacity until it fails.&lt;/p&gt;
+&lt;p&gt;The goal is not performance, it’s:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Finding the breaking point&lt;/li&gt;
+&lt;li&gt;Understanding failure behavior&lt;/li&gt;
+&lt;li&gt;Checking graceful degradation &amp;amp; recovery&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;How Stress Testing Works&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;how-stress-testing-works&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#how-stress-testing-works&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Load Pattern:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Start with normal load&lt;/li&gt;
+&lt;li&gt;Gradually increase users/transactions&lt;/li&gt;
+&lt;li&gt;Continue increasing until failure&lt;/li&gt;
+&lt;li&gt;Observe behavior at and after failure&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Unlike spike tests:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stress tests are gradual&lt;/li&gt;
+&lt;li&gt;Failure is expected&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What Stress Testing Validates&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-stress-testing-validates&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-stress-testing-validates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Application Layer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;application-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#application-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Exception handling&lt;/li&gt;
+&lt;li&gt;Timeouts &amp;amp; retries&lt;/li&gt;
+&lt;li&gt;Thread starvation&lt;/li&gt;
+&lt;li&gt;Error messages shown to users&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Infrastructure Layer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;infrastructure-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#infrastructure-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;CPU / memory limits&lt;/li&gt;
+&lt;li&gt;Auto-scaling limits&lt;/li&gt;
+&lt;li&gt;Load balancer saturation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Data Layer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;data-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#data-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;DB max connections&lt;/li&gt;
+&lt;li&gt;Lock contention&lt;/li&gt;
+&lt;li&gt;Slow query behavior&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
