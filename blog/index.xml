@@ -1,42 +1,5 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title> – </title>
-    <link>http://localhost:1313/blog/</link>
-    <description>Recent content on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Durable 12Mio conurent session, bland of data, voice and  sms -</title>
-      <link>http://localhost:1313/blog/blog_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/blog_2/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Spike traffic, blend of data, voice, sms and provsioning</title>
-      <link>http://localhost:1313/blog/blog_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/blog_1/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;em&gt;&lt;strong&gt;Project Request&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>–</title><link>http://www.atosandsea.io/blog/</link><description>Recent content on</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://www.atosandsea.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Durable 12Mio conurent session, bland of data, voice and sms -</title><link>http://www.atosandsea.io/blog/blog_2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.atosandsea.io/blog/blog_2/</guid><description/></item><item><title>Spike traffic, blend of data, voice, sms and provsioning</title><link>http://www.atosandsea.io/blog/blog_1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.atosandsea.io/blog/blog_1/</guid><description>
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Project Request&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Perfromance test of OCS system suprting Gy,Sy and RestApi interface, having set of data , voice, sms and provsiong scenarios.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;set of scenarios&lt;/li&gt;
@@ -60,10 +23,4 @@
 &lt;li&gt;test data generting by dsl perl tool&lt;/li&gt;
 &lt;li&gt;reprting&lt;/li&gt;
 &lt;li&gt;ansible for montoring of sytem under test, symtoms collection managed&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/ul&gt;</description></item></channel></rss>

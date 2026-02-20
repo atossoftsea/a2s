@@ -1,30 +1,6 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title> – Introductions</title>
-    <link>http://localhost:1313/docs/guide/</link>
-    <description>Recent content in Introductions on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	  <atom:link href="http://localhost:1313/docs/guide/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>SG-RUNNER</title>
-      <link>http://localhost:1313/docs/guide/sg_runner/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/guide/sg_runner/</guid>
-      <description>
-        
-        
-        &lt;h4&gt;Benifits&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;benifits&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#benifits&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>– Introductions</title><link>http://www.atosandsea.io/docs/guide/</link><description>Recent content in Introductions on</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://www.atosandsea.io/docs/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>SG-RUNNER</title><link>http://www.atosandsea.io/docs/guide/sg_runner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.atosandsea.io/docs/guide/sg_runner/</guid><description>
+&lt;h4&gt;Benifits&lt;span class="hx:absolute hx:-mt-20" id="benifits"&gt;&lt;/span&gt;
+&lt;a href="#benifits" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;Large-scale / distributed perfromance or end-to-end testing&lt;/li&gt;
 &lt;li&gt;Telco workloads (5G core, IMS, network functions, signaling, etc.)&lt;/li&gt;
 &lt;li&gt;Cloud-native / Kubernetes orchestration (if applicable)&lt;/li&gt;
@@ -35,45 +11,13 @@
 &lt;li&gt;Generate test results as graphical, statistical, and summary reports at once&lt;/li&gt;
 &lt;li&gt;Collaborative sahred scnearios within the telecommunications domain&lt;/li&gt;
 &lt;li&gt;Exposes a RESTful API and web GUI&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>SG COMMANDER</title>
-      <link>http://localhost:1313/docs/guide/sg_commander/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/guide/sg_commander/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>SG-TEST-STORE</title>
-      <link>http://localhost:1313/docs/guide/sg-test-store/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/guide/sg-test-store/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The Test Store is more than a platform – it’s a hub for ideas, experiences, and knowledge-sharing across the telecom community.
+&lt;/ul&gt;</description></item><item><title>SG COMMANDER</title><link>http://www.atosandsea.io/docs/guide/sg_commander/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.atosandsea.io/docs/guide/sg_commander/</guid><description/></item><item><title>SG-TEST-STORE</title><link>http://www.atosandsea.io/docs/guide/sg-test-store/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.atosandsea.io/docs/guide/sg-test-store/</guid><description>
+&lt;p&gt;The Test Store is more than a platform – it’s a hub for ideas, experiences, and knowledge-sharing across the telecom community.
 Here, engineers focus on what truly matters: smart test strategies and thoughtful test design, not just the tools.&lt;/p&gt;
 &lt;p&gt;Why repeat what’s already been done? Many tests are similar across vendors and operators.
 Instead, the Test Store helps the community share best practices, spark innovation, and accelerate progress in the telecom world.
 Together, we can push the boundaries of what’s possible and shape the future of telecom.&lt;/p&gt;
-&lt;h3&gt;Test Smarter. Share Faster. Transform Telecom.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;test-smarter-share-faster-transform-telecom&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#test-smarter-share-faster-transform-telecom&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Join the Test Store – a community where telecom engineers focus on strategy, design, and innovation.
+&lt;h3&gt;Test Smarter. Share Faster. Transform Telecom.&lt;span class="hx:absolute hx:-mt-20" id="test-smarter-share-faster-transform-telecom"&gt;&lt;/span&gt;
+&lt;a href="#test-smarter-share-faster-transform-telecom" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Join the Test Store – a community where telecom engineers focus on strategy, design, and innovation.
 Share ideas, learn from others, and help shape the future of telecom.
-Our tests support 5G, 4G, Diameter, SIP, HTTP and provisioning interfaces, so you can work with real-world technologies without reinventing the wheel. Together, we move the industry forward.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+Our tests support 5G, 4G, Diameter, SIP, HTTP and provisioning interfaces, so you can work with real-world technologies without reinventing the wheel. Together, we move the industry forward.&lt;/p&gt;</description></item></channel></rss>

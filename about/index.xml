@@ -1,93 +1,43 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title> – About</title>
-    <link>http://localhost:1313/about/</link>
-    <description>Recent content in About on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	  <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/community/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/community/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Comminity&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;comminity&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#comminity&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Mission&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mission&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#mission&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To enable efficient and reliable telecom signaling simulation by developing high-quality,
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>– About</title><link>http://www.atosandsea.io/about/</link><description>Recent content in About on</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://www.atosandsea.io/about/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://www.atosandsea.io/about/community/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.atosandsea.io/about/community/</guid><description>
+&lt;h2&gt;Comminity&lt;span class="hx:absolute hx:-mt-20" id="comminity"&gt;&lt;/span&gt;
+&lt;a href="#comminity" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Mission&lt;span class="hx:absolute hx:-mt-20" id="mission"&gt;&lt;/span&gt;
+&lt;a href="#mission" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To enable efficient and reliable telecom signaling simulation by developing high-quality,
 scalable, and open-source signaling generators that support testing, validation, and innovation across modern networks.&lt;/p&gt;
-&lt;h3&gt;Vision&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;vision&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#vision&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To become the leading open-source platform for telecom signaling simulation,
+&lt;h3&gt;Vision&lt;span class="hx:absolute hx:-mt-20" id="vision"&gt;&lt;/span&gt;
+&lt;a href="#vision" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To become the leading open-source platform for telecom signaling simulation,
 empowering organizations and communities worldwide to build, test, and innovate with confidence.&lt;/p&gt;
-&lt;h3&gt;Slack&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;slack&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#slack&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Got questions? We have a thriving community to help you.&lt;/p&gt;
+&lt;h3&gt;Slack&lt;span class="hx:absolute hx:-mt-20" id="slack"&gt;&lt;/span&gt;
+&lt;a href="#slack" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Got questions? We have a thriving community to help you.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://atosandsea.slack.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sea slack channel&lt;/a&gt; Our team and community members are reachable over chat channel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/users/atossoftsea/projects/1/views/4&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Scenarion Support&lt;/a&gt;  You can report them directly on our GitHub Issues page at Atos Soft Sea GitHub Issues. Our team and community members monitor these issues regularly and strive to provide timely responses.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/atossoftsea/sg-docs/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stack Overflow&lt;/a&gt; community-driven question and answer platform and we actively participate in discussions.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://atosandsea.slack.com/"target="_blank" rel="noopener"&gt;Sea slack channel&lt;/a&gt; Our team and community members are reachable over chat channel&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/users/atossoftsea/projects/1/views/4"target="_blank" rel="noopener"&gt;GitHub Scenarion Support&lt;/a&gt; You can report them directly on our GitHub Issues page at Atos Soft Sea GitHub Issues. Our team and community members monitor these issues regularly and strive to provide timely responses.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/atossoftsea/sg-docs/"target="_blank" rel="noopener"&gt;Stack Overflow&lt;/a&gt; community-driven question and answer platform and we actively participate in discussions.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;GitHub&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;github&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#github&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/atossoftsea?tab=repositories&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/atossoftsea/sg-runner/blob/dev/docs/CONTRIBUTING.md&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contribute&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/users/atossoftsea/projects/5/views/5&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report SG-Runner or SG-Commander issuues&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/atossoftsea/sg-docs/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contribute to docs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/support/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/support/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Support&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;support&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#support&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Beyond community support, we offer premium services designed specifically for MNOs and MVNOs operating in demanding, large-scale test environments.&lt;/p&gt;
+&lt;h3&gt;GitHub&lt;span class="hx:absolute hx:-mt-20" id="github"&gt;&lt;/span&gt;
+&lt;a href="#github" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/atossoftsea?tab=repositories"target="_blank" rel="noopener"&gt;Project on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/atossoftsea/sg-runner/blob/dev/docs/CONTRIBUTING.md"target="_blank" rel="noopener"&gt;Contribute&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/users/atossoftsea/projects/5/views/5"target="_blank" rel="noopener"&gt;Report SG-Runner or SG-Commander issuues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/atossoftsea/sg-docs/"target="_blank" rel="noopener"&gt;Contribute to docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title/><link>http://www.atosandsea.io/about/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.atosandsea.io/about/support/</guid><description>
+&lt;h2&gt;Support&lt;span class="hx:absolute hx:-mt-20" id="support"&gt;&lt;/span&gt;
+&lt;a href="#support" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Beyond community support, we offer premium services designed specifically for MNOs and MVNOs operating in demanding, large-scale test environments.&lt;/p&gt;
 &lt;p&gt;From tailored feature development and protocol enhancements to seamless integration and expert consulting,
 we help organizations accelerate deployment,
 optimize performance, and confidently scale their telecom signaling simulations.&lt;/p&gt;
 &lt;p&gt;Got questions? We have a thriving community to help you.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://atosandsea.slack.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sea slack channel&lt;/a&gt; Our team and community members are reachable over chat channel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/users/atossoftsea/projects/1/views/4&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Scenarion Support&lt;/a&gt;  You can report them directly on our GitHub Issues page at Atos Soft Sea GitHub Issues. Our team and community members monitor these issues regularly and strive to provide timely responses.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://atosandsea.slack.com/"target="_blank" rel="noopener"&gt;Sea slack channel&lt;/a&gt; Our team and community members are reachable over chat channel&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/users/atossoftsea/projects/1/views/4"target="_blank" rel="noopener"&gt;GitHub Scenarion Support&lt;/a&gt; You can report them directly on our GitHub Issues page at Atos Soft Sea GitHub Issues. Our team and community members monitor these issues regularly and strive to provide timely responses.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Expert telecom signaling support — faster, scalable, reliable.
 Let ATOS &amp;amp;&amp;amp; SEA help you optimize your test scenarios. Email contact (at) atosandsea.io today.&lt;/p&gt;
-&lt;h2&gt;Feadback&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;feadback&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#feadback&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We welcome your feedback and suggestions!&lt;/p&gt;
-&lt;p&gt;Please reach out to us at contact (at) atosandsea.io — your input helps us improve and better serve the telecom signaling simulation community&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/usecases/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/usecases/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Use Cases&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;use-cases&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#use-cases&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Spike traffic, blend of data, voice, sms and provsioning&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;spike-traffic-blend-of-data-voice-sms-and-provsioning&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#spike-traffic-blend-of-data-voice-sms-and-provsioning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Project Request&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Feadback&lt;span class="hx:absolute hx:-mt-20" id="feadback"&gt;&lt;/span&gt;
+&lt;a href="#feadback" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We welcome your feedback and suggestions!&lt;/p&gt;
+&lt;p&gt;Please reach out to us at contact (at) atosandsea.io — your input helps us improve and better serve the telecom signaling simulation community&lt;/p&gt;</description></item><item><title/><link>http://www.atosandsea.io/about/usecases/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.atosandsea.io/about/usecases/</guid><description>
+&lt;h2&gt;Use Cases&lt;span class="hx:absolute hx:-mt-20" id="use-cases"&gt;&lt;/span&gt;
+&lt;a href="#use-cases" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Spike traffic, blend of data, voice, sms and provsioning&lt;span class="hx:absolute hx:-mt-20" id="spike-traffic-blend-of-data-voice-sms-and-provsioning"&gt;&lt;/span&gt;
+&lt;a href="#spike-traffic-blend-of-data-voice-sms-and-provsioning" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Project Request&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Perfromance test of OCS system suprting Gy,Sy and RestApi interface, having set of data , voice, sms and provsiong scenarios.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;set of scenarios&lt;/li&gt;
@@ -112,8 +62,8 @@ Let ATOS &amp;amp;&amp;amp; SEA help you optimize your test scenarios. Email con
 &lt;li&gt;reprting&lt;/li&gt;
 &lt;li&gt;ansible for montoring of sytem under test, symtoms collection managed&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Spike traffic, blend of data, voice, sms and provsioning&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;spike-traffic-blend-of-data-voice-sms-and-provsioning-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#spike-traffic-blend-of-data-voice-sms-and-provsioning-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Project Request&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Spike traffic, blend of data, voice, sms and provsioning&lt;span class="hx:absolute hx:-mt-20" id="spike-traffic-blend-of-data-voice-sms-and-provsioning-1"&gt;&lt;/span&gt;
+&lt;a href="#spike-traffic-blend-of-data-voice-sms-and-provsioning-1" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Project Request&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Perfromance test of OCS system suprting Gy,Sy and RestApi interface, having set of data , voice, sms and provsiong scenarios.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;set of scenarios&lt;/li&gt;
@@ -137,34 +87,15 @@ Let ATOS &amp;amp;&amp;amp; SEA help you optimize your test scenarios. Email con
 &lt;li&gt;test data generting by dsl perl tool&lt;/li&gt;
 &lt;li&gt;reprting&lt;/li&gt;
 &lt;li&gt;ansible for montoring of sytem under test, symtoms collection managed&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title/><link>http://www.atosandsea.io/about/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.atosandsea.io/about/contact/</guid><description>
+&lt;h2&gt;Contacts&lt;span class="hx:absolute hx:-mt-20" id="contacts"&gt;&lt;/span&gt;
+&lt;a href="#contacts" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Channels&lt;span class="hx:absolute hx:-mt-20" id="channels"&gt;&lt;/span&gt;
+&lt;a href="#channels" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://atosandsea.slack.com/"target="_blank" rel="noopener"&gt;Sea slack channel&lt;/a&gt; Our team and community members are reachable over chat channel&lt;/li&gt;
+&lt;li&gt;&lt;a href="msteams@atosandsea.io"&gt;GMS Teams&lt;/a&gt; Our team strive to provide timely responses.&lt;/li&gt;
 &lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/contact/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Contacts&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contacts&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#contacts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Channels&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;channels&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#channels&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://atosandsea.slack.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sea slack channel&lt;/a&gt; Our team and community members are reachable over chat channel&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;msteams@atosandsea.io&#34;&gt;GMS Teams&lt;/a&gt; Our team strive to provide timely responses.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Emails&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;emails&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#emails&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Emails&lt;span class="hx:absolute hx:-mt-20" id="emails"&gt;&lt;/span&gt;
+&lt;a href="#emails" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Support: support(at)atosandsea.io&lt;/li&gt;
 &lt;li&gt;Common: contact(at)atosandsea.io&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/ul&gt;</description></item></channel></rss>
